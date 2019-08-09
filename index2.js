@@ -7,4 +7,4 @@ let a = [1, 2, 3, 4]
 console.log(a)
 
 let c = [1, 2, 3, 4]
-console.log(a + b + c)
+console.log(a + b + c + c)
